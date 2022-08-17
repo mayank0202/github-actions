@@ -1,0 +1,4 @@
+name: Post welcome mayank
+on:
+  pull_request:
+    types: [opened]
